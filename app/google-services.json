@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53889181876",
+    "project_id": "pos-magang",
+    "storage_bucket": "pos-magang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53889181876:android:06fe175e260acc1c9b8fe1",
+        "android_client_info": {
+          "package_name": "com.example.pointofsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53889181876-cmp536v16kmj93ns39850ufsd7fvnt7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pointofsales",
+            "certificate_hash": "f8ee5716a150ca0507d4a88d65ff61059b269a07"
+          }
+        },
+        {
+          "client_id": "53889181876-n0rkhqp3u6tlmj2hovh6eviorlmmqhbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9rej3Xl8vYV955JLpk_xWaHkkEV-FAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53889181876-n0rkhqp3u6tlmj2hovh6eviorlmmqhbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
